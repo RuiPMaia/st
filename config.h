@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Inconsolata:size=16:antialias=true:hinting=true:autohint=false:hintstyle=1";
+static char *font = "monospace:size=14:antialias=true:hinting=true:autohint=false:hintstyle=1";
 static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
 // static char *font = "mono:pixelsize=12:antialias=true:autohint=true";
 // static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
